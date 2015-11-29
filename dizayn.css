@@ -1,0 +1,75 @@
+h1{
+text-align:center;	
+}
+#para{
+  position: absolute;
+    left:300px;
+    top:420px;
+height:25%;
+width:25%;	
+}
+#makine{
+	position: absolute;
+    left:750px;
+    top:420px;
+height:25%;
+width:25%;	
+}
+#tablo{
+background-color:white;	
+font-family:Verdana;
+font-weight:bold;
+}
+body{
+	background-attachment:fixed;
+	background-color:#FFFACD;
+}
+#buton{
+	
+	font-family:Verdana;
+	font-size:25px;
+	font-weight:bold;
+	color:#87CEFA;
+	background:#FF6347;
+}
+#resim{
+	height: 15%;
+   width: 20%;
+}
+#one{
+	background:url(top.png);
+}
+#two{
+	background:url(top.png);
+}
+#three{
+	background:url(top.png);
+}
+#four{
+	background:url(top.png);
+}
+#five{
+	background:url(top.png);
+}
+#six{
+	background:url(top.png);
+}
+
+#seven{
+	background:url(top.png);
+}
+#eight{
+	background:url(top.png);
+}
+#nine{
+	background:url(top.png);
+}
+#ten{
+	background:url(top.png);
+}
+#eleven{
+	background:url(top.png);
+}
+#twelwe{
+	background:url(top.png);
+}
